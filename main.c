@@ -59,4 +59,4 @@ void adc_temp_sensor(void)
  temp = calculate_temperature(raw_result);
 
  printf("\nThe current temperature is = %f degree Celsius", temp);
-}
+} 
